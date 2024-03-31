@@ -1,0 +1,63 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 100;
+    width: 100;
+}
+h3{
+    color:aliceblue
+}
+
+header{ 
+    background-color: rgb(219, 172, 133);
+    margin: 0;
+    
+   
+}
+header img{
+   
+    width: 417px;
+    height: auto;
+ float:right
+
+}
+
+
+form{
+    font-size: 100%;
+    padding: 2%;
+    width: 10%;
+}
+
+.titulo{
+color:black
+
+}
+
+p {
+    font-size: 20;
+}
+.caixa-categoria{
+    color:red
+    float: left;
+    margin: 5%;
+    width: 25%;
+    padding: 0%;
+    height: auto;
+ 
+}
+
+label[for="inscricao"] {
+display:inline-flex;
+padding: 10%;
+}
+
+
+body{
+    background-color:rgb(201, 198, 198);
+}
+
+footer{
+text-align: center;
+    font-size: 70%;
+    color: blue;
+}

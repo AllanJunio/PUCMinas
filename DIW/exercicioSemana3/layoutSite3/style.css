@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+/* Estilos para a barra de navegação */
+header {
+    background-color: rgb(134, 219, 134); /* Cor vermelha apenas para demonstração */
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilos para a barra lateral */
+aside {
+    background-color: #333; /* Cor cinza escuro apenas para demonstração */
+    color: #fff;
+    width: 250px;
+    height: 100vh; /* Altura da tela inteira */
+    padding: 20px;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+
+/* Estilos para a área de conteúdo principal */
+main {
+    margin-left: 270px; /* Largura da barra lateral + margem */
+    padding: 20px;
+}
+
+/* Estilos para os vídeos */
+
+img {
+    background: #928888;
+    display:inline;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+
+footer{
+    background-color: black;
+            color: white;
+            text-align: center;
+            padding: 20px;
+            position: fixed;
+            bottom: 0;
+            width: 100%; 
+}
+form{
+    text-align: left;
+    float:right
+    padding: 0;
+    width: 10%;
+
+    font-size:large
+    
+}
