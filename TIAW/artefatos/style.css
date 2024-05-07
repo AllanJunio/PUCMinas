@@ -1,0 +1,20 @@
+header {
+    background-color: rgb(72, 75, 78);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px; /* Adicione padding para espaçamento */
+    flex-grow: 1;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: white;
+    /* Define a cor do texto como branco */
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+

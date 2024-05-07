@@ -1,0 +1,13 @@
+{   
+  "informacoes":[
+    {
+        "id": "1",
+        "texto":   "Nossa empresa ...",
+        "contato" : "(31)12345678",
+        "responsaveis": "Allan, Thaigo ...",
+        "email": "monkeytech@gmail.com", 
+        "politicaPrivacidade": "Todos os dados dos cadastrados..." 
+        
+    }
+  ]  
+}
