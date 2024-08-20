@@ -1,0 +1,14 @@
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\Rp1\bin\Debug\net8.0\Rp1.cs.exe
+C:\Users\allan\Desktop\AED\Rp1\bin\Debug\net8.0\Rp1.cs.deps.json
+C:\Users\allan\Desktop\AED\Rp1\bin\Debug\net8.0\Rp1.cs.runtimeconfig.json
+C:\Users\allan\Desktop\AED\Rp1\bin\Debug\net8.0\Rp1.cs.dll
+C:\Users\allan\Desktop\AED\Rp1\bin\Debug\net8.0\Rp1.cs.pdb
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.dll
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\refint\Rp1.cs.dll
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.pdb
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\Rp1.cs.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\Rp1\obj\Debug\net8.0\ref\Rp1.cs.dll

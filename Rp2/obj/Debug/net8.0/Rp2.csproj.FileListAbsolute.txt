@@ -1,0 +1,14 @@
+C:\Users\allan\Desktop\AED\Rp2\bin\Debug\net8.0\Rp2.exe
+C:\Users\allan\Desktop\AED\Rp2\bin\Debug\net8.0\Rp2.deps.json
+C:\Users\allan\Desktop\AED\Rp2\bin\Debug\net8.0\Rp2.runtimeconfig.json
+C:\Users\allan\Desktop\AED\Rp2\bin\Debug\net8.0\Rp2.dll
+C:\Users\allan\Desktop\AED\Rp2\bin\Debug\net8.0\Rp2.pdb
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.dll
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\refint\Rp2.dll
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.pdb
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\Rp2.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\Rp2\obj\Debug\net8.0\ref\Rp2.dll
