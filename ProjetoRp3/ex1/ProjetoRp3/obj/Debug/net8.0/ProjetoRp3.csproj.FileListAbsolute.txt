@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\bin\Debug\net8.0\ProjetoRp3.exe
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\bin\Debug\net8.0\ProjetoRp3.deps.json
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\bin\Debug\net8.0\ProjetoRp3.runtimeconfig.json
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\bin\Debug\net8.0\ProjetoRp3.dll
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\bin\Debug\net8.0\ProjetoRp3.pdb
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.sourcelink.json
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.dll
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\refint\ProjetoRp3.dll
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.pdb
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ProjetoRp3.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\ProjetoRp3\ex1\ProjetoRp3\obj\Debug\net8.0\ref\ProjetoRp3.dll
