@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\bin\Debug\net8.0\ProjetoRecursividade.exe
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\bin\Debug\net8.0\ProjetoRecursividade.dll
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.sourcelink.json
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.dll
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\refint\ProjetoRecursividade.dll
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.pdb
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\bin\Debug\net8.0\ProjetoRecursividade.deps.json
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\bin\Debug\net8.0\ProjetoRecursividade.runtimeconfig.json
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\bin\Debug\net8.0\ProjetoRecursividade.pdb
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ProjetoRecursividade.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\ProjetoRecursividade\ProjetoRecursividade\obj\Debug\net8.0\ref\ProjetoRecursividade.dll

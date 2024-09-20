@@ -1,51 +1,60 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace ProjetoRecursividade
-{
-    public class recursividadeHelper:IfcRecursividade
+namespace ProjetoRecursividade{
+    public class recursividadeHelper : IfcRecursividade
     {
-
-        // retorna o fatorial de n versão recursiva 
-      //  public static long getFatorial(int n)
-      //  {
-          //  for (int n = 0; n < 10; n++ {
-
-          //  }
-         //  return 1;
-       // }
-
-        // retorna o fatorial de n versão iterativa 
-        public static long getFatorial(long n, bool flag)
+        // Implementação do cálculo de fatorial (recursivo)
+        public long getFatorial(long n)
         {
+            if (n <= 1)
+                return 1;
+            return n * getFatorial(n - 1);
+        }
 
-            return 1; }
+        // Implementação do cálculo de fatorial (iterativo)
+        public long getFatorial(long n, bool flag)
+        {
+            long result = 1;
+            for (long i = 2; i <= n; i++)
+            {
+                result *= i;
+            }
+            return result;
+        }
 
-        // retorna o fatorial de n versão recursiva 
-        public static long getFibonacci(long n) {
+        // Implementação do cálculo de Fibonacci (recursivo)
+        public long getFibonacci(long n) {
             if (n == 1)
             {
                 return 0;
-
-            } else if (n == 2) {
+            }
+            else if (n == 2)
+            {
                 return 1;
-
-            } else {
+            }
+            else
+            {
                 return getFibonacci(n - 2) + getFibonacci(n - 1);
             }
         }
-        // retorna o fatorial de n versão iterativa 
-        public  static long getFibonacci(long n, bool flag)
-        {
-            return 1; 
-        }
 
-        static long IfcRecursividade.getFatorial(long n)
+        // Implementação do cálculo de Fibonacci (iterativo)
+        public long getFibonacci(long n, bool flag)
         {
-            throw new NotImplementedException();
+            if (n <= 1)
+                return 0;
+            if (n == 2)
+                return 1;
+
+            long a = 0, b = 1, c = 0;
+
+            for (long i = 3; i <= n; i++)
+            {
+                c = a + b;
+                a = b;
+                b = c;
+            }
+
+            return b;
         }
     }
 }
