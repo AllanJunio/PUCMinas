@@ -1,0 +1,17 @@
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\bin\Debug\net8.0-windows\ProjetoCalculadoraGUI.exe
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\bin\Debug\net8.0-windows\ProjetoCalculadoraGUI.deps.json
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\bin\Debug\net8.0-windows\ProjetoCalculadoraGUI.runtimeconfig.json
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\bin\Debug\net8.0-windows\ProjetoCalculadoraGUI.dll
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\bin\Debug\net8.0-windows\ProjetoCalculadoraGUI.pdb
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.csproj.GenerateResource.cache
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.sourcelink.json
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.dll
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\refint\ProjetoCalculadoraGUI.dll
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.pdb
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ref\ProjetoCalculadoraGUI.dll
+C:\Users\allan\Desktop\AED\ProjetoCalculadoraGUI\ProjetoCalculadoraGUI\obj\Debug\net8.0-windows\ProjetoCalculadoraGUI.CalculadoraView.resources

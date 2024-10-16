@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\AED\ProjetoPilha\bin\Debug\net8.0\ProjetoPilha.exe
+C:\Users\allan\Desktop\AED\ProjetoPilha\bin\Debug\net8.0\ProjetoPilha.deps.json
+C:\Users\allan\Desktop\AED\ProjetoPilha\bin\Debug\net8.0\ProjetoPilha.runtimeconfig.json
+C:\Users\allan\Desktop\AED\ProjetoPilha\bin\Debug\net8.0\ProjetoPilha.dll
+C:\Users\allan\Desktop\AED\ProjetoPilha\bin\Debug\net8.0\ProjetoPilha.pdb
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.sourcelink.json
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.dll
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\refint\ProjetoPilha.dll
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.pdb
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ProjetoPilha.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\ProjetoPilha\obj\Debug\net8.0\ref\ProjetoPilha.dll

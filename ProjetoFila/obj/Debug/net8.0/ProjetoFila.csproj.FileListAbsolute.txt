@@ -1,0 +1,15 @@
+C:\Users\allan\Desktop\AED\ProjetoFila\bin\Debug\net8.0\ProjetoFila.exe
+C:\Users\allan\Desktop\AED\ProjetoFila\bin\Debug\net8.0\ProjetoFila.deps.json
+C:\Users\allan\Desktop\AED\ProjetoFila\bin\Debug\net8.0\ProjetoFila.runtimeconfig.json
+C:\Users\allan\Desktop\AED\ProjetoFila\bin\Debug\net8.0\ProjetoFila.dll
+C:\Users\allan\Desktop\AED\ProjetoFila\bin\Debug\net8.0\ProjetoFila.pdb
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.AssemblyInfoInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.AssemblyInfo.cs
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.csproj.CoreCompileInputs.cache
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.sourcelink.json
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.dll
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\refint\ProjetoFila.dll
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.pdb
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ProjetoFila.genruntimeconfig.cache
+C:\Users\allan\Desktop\AED\ProjetoFila\obj\Debug\net8.0\ref\ProjetoFila.dll
